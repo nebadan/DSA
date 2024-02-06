@@ -13,3 +13,4 @@ def factorial(n):
 
 
 print(factorial(3.1))
+print(factorial(4))
